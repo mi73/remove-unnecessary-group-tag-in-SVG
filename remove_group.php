@@ -3,7 +3,7 @@
  * remove unnecessary group tag in SVG
  *
  * @access  public
- * @author  Yohei Minami<shimooka@doyouphp.jp>
+ * @author  Yohei Minami<mi73@me.com>
  * @create  2012/10/15
  * @version 0.0.1
  **/
