@@ -9,4 +9,4 @@ Just a remove group tag without attribute.
 
 -How to use is below.
 
-php remove_group.php <INPUT_FILE_NAME> <OUTPUT_FILE_NAME>
+php remove_group.php INPUT_FILE_NAME OUTPUT_FILE_NAME
